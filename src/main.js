@@ -10,7 +10,7 @@ let exec = require('child_process').exec;
 
 //==========
 
-const myBot = ['u7a92b4c0c87a2dfeedec343276cea972','uf51ed4f092b7686f297a23ed3789ae34','u5373e15ec8d7c4e3983098440b62587a','u73095ed1d4406202ddf2d26618a05cac','uf71b8e10ca3e778d2b409b072cb0597f','u8df2040f34fed7425e9b263ea1dbfe9b','u7a8804ae9c54c18dfd2000351c429b86','u4037c6b6ab3aeb47010fd464b227e603'];
+const myBot = ['u7a92b4c0c87a2dfeedec343276cea972','uf51ed4f092b7686f297a23ed3789ae34','u5373e15ec8d7c4e3983098440b62587a','u73095ed1d4406202ddf2d26618a05cac','uf71b8e10ca3e778d2b409b072cb0597f','u8df2040f34fed7425e9b263ea1dbfe9b','u7a8804ae9c54c18dfd2000351c429b86','u4037c6b6ab3aeb47010fd464b227e603];
 // -tips biar botnya gk error mulu- ];//INSERT YOUR ADMIN MID HERE
 var vx = {};var midnornama = "";var pesane = "";var kickhim = "";var waitMsg = "no";//DO NOT CHANGE THIS
 var banList = [];//Banned list
